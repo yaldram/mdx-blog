@@ -1,4 +1,8 @@
 module.exports = {
+  siteMetadata: {
+    title: "Gatsby Mdx Blog",
+    description: "A Simple Gatsby and Mdx Blog",
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
